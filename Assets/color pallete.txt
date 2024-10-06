@@ -1,0 +1,5 @@
+Earthy Green = #4CAF50
+Soft Brown = #8B4513
+Golden Yellow = #FFD700
+Sky Blue = #87CEEB
+Warm Beige = #F5F5DC
