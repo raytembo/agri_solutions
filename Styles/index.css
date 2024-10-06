@@ -27,6 +27,7 @@ body{
     border-radius: 30px;
 }
 .navBar h2:hover{
+   transition: all 2s;
    color: #4CAF50;
 }
 
@@ -41,6 +42,7 @@ body{
     color: black;
 }
 .navLinks a:hover{
+    transition: all 2s;
     text-decoration: underline;
     color: #8B4513;
 }
@@ -84,6 +86,7 @@ body{
     padding: 10px;
 }
 .hero-text button:hover{
+    transition: all 2s;
     background-color: #4CAF50;
 }
 .products{
@@ -131,6 +134,7 @@ body{
     font-size: 20px;
 }
 .products button:hover{
+    transition: all 2s;
     color: #F5F5DC;
     background-color: #8B4513;
 }
@@ -255,6 +259,7 @@ footer h2{
     text-decoration: none;
 }
 .FooterLinks a:hover{
+    transition: all 2s;
     color: #8B4513;
 }
 
