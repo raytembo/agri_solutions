@@ -70,12 +70,12 @@ body{
     z-index: 2;
     position: relative;
     width: 50%;
-    bottom: 500px;
+    bottom: 600px;
     padding: 50px;
 }
 .hero-text p{
     color: #F5F5DC;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 600;
 }
 .hero-text button{
@@ -195,6 +195,7 @@ body{
 }
 iframe {
     margin-left: 200px;
+    border-radius: 20px;
 
 }
 
